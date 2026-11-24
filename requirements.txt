@@ -1,0 +1,6 @@
+apache-airflow-providers-amazon
+apache-airflow-providers-databricks
+apache-airflow-providers-snowflake
+boto3
+faker
+pandas
